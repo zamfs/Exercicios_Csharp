@@ -1,10 +1,5 @@
 <Solution>
-  <Folder Name="/Básico/">
-    <File Path="README.md" />
-    <Project Path="Exercicio02/Exercicio02.csproj" />
-    <Project Path="Exercicio03/Exercicio03.csproj" />
-    <Project Path="Exercicio04/Exercicio04.csproj" />
-    <Project Path="Exercicio05/Exercicio05.csproj" />
-    <Project Path="Exercises/Exercicio01.csproj" />
-  </Folder>
+  <Project Path="Basico/Exercicio06/Exercicio06.csproj" Id="5feb02d7-d626-4584-b074-bad742d6ff6b" />
+  <Project Path="Basico/Exercicio07/Exercicio07.csproj" Id="1e5d7a0f-1973-4d63-86ed-c2cdf823d6d0" />
+  <Project Path="Exercicio08/Exercicio08.csproj" Id="b0d09e96-c27e-46eb-bd09-d7e8eb9aacbb" />
 </Solution>
