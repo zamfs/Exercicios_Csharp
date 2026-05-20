@@ -8,4 +8,6 @@
   <Project Path="Basico/Exercicio12/Exercicio12.csproj" Id="da3b6aa7-e267-4eaa-952f-fef25d7de00f" />
   <Project Path="Basico/Exercicio13/Exercicio13.csproj" Id="867c15af-9f7d-4156-8f87-609357baae0b" />
   <Project Path="Basico/Exercicio14/Exercicio14.csproj" Id="990fb0f6-f75a-4d83-84be-7cb10aedf93c" />
+  <Project Path="POO-Básico/Exercicio01/Exercicio01.csproj" Id="949ace6f-0c86-4e62-a490-b11215298b2d" />
+  <Project Path="POO-Básico/Exercicio02/Exercicio02.csproj" Id="29b1f0a8-dfa6-4ef0-9f1f-778d90dfd8f5" />
 </Solution>
