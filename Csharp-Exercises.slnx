@@ -1,16 +1,9 @@
 <Solution>
-  <Project Path="Basico/Exercicio07/Exercicio07.csproj" Id="1e5d7a0f-1973-4d63-86ed-c2cdf823d6d0" />
-  <Project Path="Basico/Exercicio08/Exercicio08.csproj" />
-  <Project Path="Basico/Exercicio09/Exercicio09.csproj" Id="373c7ad6-023c-4256-b5bf-a93296b72647" />
-  <Project Path="Basico/Exercicio10/Exercicio10.csproj" Id="a1a967e3-a950-46be-a945-187e007cac7a" />
-  <Project Path="Basico/Exercicio11/Exercicio11.csproj" Id="4a63d622-0dd5-4b22-a3f8-dccffabec059" />
-  <Project Path="Basico/Exercicio12/Exercicio12.csproj" Id="da3b6aa7-e267-4eaa-952f-fef25d7de00f" />
-  <Project Path="Basico/Exercicio13/Exercicio13.csproj" Id="867c15af-9f7d-4156-8f87-609357baae0b" />
-  <Project Path="Basico/Exercicio14/Exercicio14.csproj" Id="990fb0f6-f75a-4d83-84be-7cb10aedf93c" />
   <Project Path="POO-Básico/Exercicio01/Exercicio01.csproj" Id="949ace6f-0c86-4e62-a490-b11215298b2d" />
   <Project Path="POO-Básico/Exercicio02/Exercicio02.csproj" Id="29b1f0a8-dfa6-4ef0-9f1f-778d90dfd8f5" />
   <Project Path="POO-Básico/Exercicio03/Exercicio03.csproj" Id="f3ebacee-3f39-4d9f-8ac6-b50caf5d50ec" />
   <Project Path="POO-Básico/Exercicio04/Exercicio04.csproj" Id="e3ceb7c9-31ac-4569-aa5a-bcbef7e26535" />
   <Project Path="POO-Básico/Exercicio05/Exercicio05.csproj" Id="1f3a326d-c5f6-42dd-bf7d-c7f9aad8cd5e" />
   <Project Path="POO-Básico/Exercicio06/Exercicio06.csproj" />
+  <Project Path="POO-Básico/Exercicio07/Exercicio07.csproj" Id="4568f37e-bd93-45a7-80e0-fd149fcd3af4" />
 </Solution>
